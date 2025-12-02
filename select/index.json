@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "トリセツ",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2025-12-02T11:28:20.726029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/01_トリセツ_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/02_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/03_トリセツ_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/04_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/05_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/06_トリセツ_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/07_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トリセツ - Torisetsu",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/08_トリセツ_-_Torisetsu_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/09_トリセツ_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/10_トリセツ_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トリセツ - Torisetsu",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/11_トリセツ_-_Torisetsu_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/12_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/13_トリセツ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "Nishino Kana",
+      "has_synced": true,
+      "path": "select/14_トリセツ_Nishino_Kana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "トリセツ",
+      "artist": "Nishino Kana",
+      "has_synced": true,
+      "path": "select/15_トリセツ_Nishino_Kana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_トリセツ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "トリセツ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_トリセツ_西野_カナ.txt"
+    }
+  ]
+}
